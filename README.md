@@ -1,3 +1,6 @@
+
+
+## [Visit The Web] (https://fetching-img-from-nasa.vercel.app)
 # Module Project: Component Side Effects- NASA APOD
 
 This will be a two-module project. In it you will consume the NASA API to fetch the "Astronomy Photo Of The Day" or APOD. Once you fetch the data, you will build a few components that will render different pieces of data in your interface. After the second module (in the [DAY_TWO_README.md](DAY_TWO_README.md) file) you will re-style your app using [Styled Components](https://github.com/LambdaSchool/nasa-photo-of-the-day.git).
@@ -29,7 +32,7 @@ This project was put together using create-react-app (CRA). You will not need to
 
 - [
 
-  
+
  ] Create a forked copy of this project.
 - [ ] Clone your OWN version of the repository in your terminal
 - [ ] Download project dependencies by running `npm install`
@@ -114,3 +117,4 @@ Follow these steps for completing your project.
 ----
 
 ## Part II - [Advanced Styling Techniques](DAY_TWO_README.md)
+
